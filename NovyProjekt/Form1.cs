@@ -12,6 +12,7 @@ namespace NovyProjekt
             int cislo = 0;
             int cislo2 = 5;
             int cislo3 = 6;
+            int císlo4 = 7;
         }
     }
 }
