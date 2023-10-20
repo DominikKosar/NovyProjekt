@@ -10,6 +10,7 @@ namespace NovyProjekt
         private void button1_Click(object sender, EventArgs e)
         {
             int cislo = 0;
+            int cislo2 = 5;
         }
     }
 }
